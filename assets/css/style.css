@@ -35,9 +35,16 @@ header nav ul li a{
 /*Hero Style Start*/
 .hero{
     background-image: url(../hero-bg.jpg);
-    height: 600px;
+    height: 800px;
     background-size: cover;
     background-position: center;
+}
+.hero-secondary{
+    margin: 20px;
+    background-color: black;
+    font-size: 20 px;
+    color:red;
+
 }
 .hero-form{
     background-color: #fce138;
